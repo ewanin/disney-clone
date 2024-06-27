@@ -1,5 +1,5 @@
 import LatestOne from '../assets/Images/Latest/One.jpg'
-import LatestTwo from '../assets/Images/Latest/two.jpg'
+import LatestTwo from '../assets/Images/Latest/Two.jpg'
 import LatestThree from '../assets/Images/Latest/Three.jpg'
 import LatestFour from '../assets/Images/Latest/Four.jpg'
 import LatestFive from '../assets/Images/Latest/Five.jpg'
