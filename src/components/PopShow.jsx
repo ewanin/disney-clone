@@ -1,5 +1,5 @@
 import PopShowOne from '../assets/Images/PopShow/One.png'
-import PopShowTwo from '../assets/Images/PopShow/two.png'
+import PopShowTwo from '../assets/Images/PopShow/Two.png'
 import PopShowThree from '../assets/Images/PopShow/Three.png'
 import PopShowFour from '../assets/Images/PopShow/Four.png'
 import PopShowFive from '../assets/Images/PopShow/Five.png'
