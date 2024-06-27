@@ -1,5 +1,5 @@
 import FriendsOne from '../assets/Images/Friends/One.png'
-import FriendsTwo from '../assets/Images/Friends/two.png'
+import FriendsTwo from '../assets/Images/Friends/Two.png'
 import FriendsThree from '../assets/Images/Friends/Three.png'
 import FriendsFour from '../assets/Images/Friends/Four.png'
 import FriendsFive from '../assets/Images/Friends/Five.png'
