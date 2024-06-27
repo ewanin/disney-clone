@@ -1,5 +1,5 @@
 import ActionOne from '../assets/Images/Action/One.png'
-import ActionTwo from '../assets/Images/Action/two.png'
+import ActionTwo from '../assets/Images/Action/Two.png'
 import ActionThree from '../assets/Images/Action/Three.png'
 import ActionFour from '../assets/Images/Action/Four.png'
 import ActionFive from '../assets/Images/Action/Five.png'
