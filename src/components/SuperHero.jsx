@@ -1,5 +1,5 @@
 import SuperHeroOne from '../assets/Images/SuperHero/One.png'
-import SuperHeroTwo from '../assets/Images/SuperHero/two.png'
+import SuperHeroTwo from '../assets/Images/SuperHero/Two.png'
 import SuperHeroThree from '../assets/Images/SuperHero/Three.png'
 import SuperHeroFour from '../assets/Images/SuperHero/Four.png'
 import SuperHeroFive from '../assets/Images/SuperHero/Five.png'
