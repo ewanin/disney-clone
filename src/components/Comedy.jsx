@@ -1,5 +1,5 @@
 import ComedyOne from '../assets/Images/Comedy/One.jpg'
-import ComedyTwo from '../assets/Images/Comedy/two.png'
+import ComedyTwo from '../assets/Images/Comedy/Two.png'
 import ComedyThree from '../assets/Images/Comedy/Three.jpg'
 import ComedyFour from '../assets/Images/Comedy/Four.jpg'
 import ComedyFive from '../assets/Images/Comedy/Five.jpg'
