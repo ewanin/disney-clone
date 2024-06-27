@@ -1,5 +1,5 @@
 import PopChanOne from '../assets/Images/PopChan/One.webp'
-import PopChanTwo from '../assets/Images/PopChan/two.webp'
+import PopChanTwo from '../assets/Images/PopChan/Two.webp'
 import PopChanThree from '../assets/Images/PopChan/Three.webp'
 import PopChanFour from '../assets/Images/PopChan/Four.webp'
 import PopChanFive from '../assets/Images/PopChan/Five.webp'
