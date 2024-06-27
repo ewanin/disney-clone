@@ -1,5 +1,5 @@
 import ComingOne from '../assets/Images/Coming/One.png'
-import ComingTwo from '../assets/Images/Coming/two.png'
+import ComingTwo from '../assets/Images/Coming/Two.png'
 import ComingThree from '../assets/Images/Coming/Three.png'
 import ComingFour from '../assets/Images/Coming/Four.png'
 import ComingFive from '../assets/Images/Coming/Five.png'
