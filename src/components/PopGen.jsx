@@ -1,5 +1,5 @@
 import PopGenOne from '../assets/Images/PopGen/One.webp'
-import PopGenTwo from '../assets/Images/PopGen/two.webp'
+import PopGenTwo from '../assets/Images/PopGen/Two.webp'
 import PopGenThree from '../assets/Images/PopGen/Three.webp'
 import PopGenFour from '../assets/Images/PopGen/Four.webp'
 import PopGenFive from '../assets/Images/PopGen/Five.webp'
