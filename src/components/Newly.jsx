@@ -1,5 +1,5 @@
 import NewlyOne from '../assets/Images/Newly/One.jpg'
-import NewlyTwo from '../assets/Images/Newly/two.jpg'
+import NewlyTwo from '../assets/Images/Newly/Two.jpg'
 import NewlyThree from '../assets/Images/Newly/Three.jpg'
 import NewlyFour from '../assets/Images/Newly/Four.jpg'
 import NewlyFive from '../assets/Images/Newly/Five.jpg'
