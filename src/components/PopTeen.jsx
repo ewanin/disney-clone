@@ -1,5 +1,5 @@
 import PopTeenOne from '../assets/Images/PopTeen/One.png'
-import PopTeenTwo from '../assets/Images/PopTeen/two.png'
+import PopTeenTwo from '../assets/Images/PopTeen/Two.png'
 import PopTeenThree from '../assets/Images/PopTeen/Three.jpg'
 import PopTeenFour from '../assets/Images/PopTeen/Four.png'
 import PopTeenFive from '../assets/Images/PopTeen/Five.jpg'
