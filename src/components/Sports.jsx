@@ -1,5 +1,5 @@
 import SportsOne from '../assets/Images/Sports/One.webp'
-import SportsTwo from '../assets/Images/Sports/two.webp'
+import SportsTwo from '../assets/Images/Sports/Two.webp'
 import SportsThree from '../assets/Images/Sports/Three.webp'
 import SportsFour from '../assets/Images/Sports/Four.webp'
 import SportsFive from '../assets/Images/Sports/Five.webp'
