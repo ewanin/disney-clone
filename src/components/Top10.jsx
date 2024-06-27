@@ -1,5 +1,5 @@
 import Top10One from '../assets/Images/Top10/One.png'
-import Top10Two from '../assets/Images/Top10/two.png'
+import Top10Two from '../assets/Images/Top10/Two.png'
 import Top10Three from '../assets/Images/Top10/Three.png'
 import Top10Four from '../assets/Images/Top10/Four.png'
 import Top10Five from '../assets/Images/Top10/Five.png'
