@@ -1,5 +1,5 @@
 import PopLangOne from '../assets/Images/PopLang/One.webp'
-import PopLangTwo from '../assets/Images/PopLang/two.webp'
+import PopLangTwo from '../assets/Images/PopLang/Two.webp'
 import PopLangThree from '../assets/Images/PopLang/Three.webp'
 import PopLangFour from '../assets/Images/PopLang/Four.webp'
 import PopLangFive from '../assets/Images/PopLang/Five.webp'
